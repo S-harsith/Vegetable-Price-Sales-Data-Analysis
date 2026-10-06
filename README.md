@@ -1,4 +1,4 @@
-# Vegetable Price & Sales Data Analysis
+<img width="1512" height="805" alt="image" src="https://github.com/user-attachments/assets/3a8eb185-d135-4909-bfa7-0f3df3e04b20" /># Vegetable Price & Sales Data Analysis
 
 An end-to-end data cleaning and analysis project on about **2.76 million rows** of vegetable market price and sales data, built with **Databricks, PySpark and Delta tables**.
 
@@ -46,7 +46,8 @@ Market price data is often messy: some records have negative quantities, or pric
 - Prices were very unstable, with sharp spikes and drops. The highest price was about **5 times** the lowest.
 - Spikes appeared in mid-2024 and late 2025, but they did not fall in the same month each year.
 
-![Tomato price trend](add-your-chart-image-link-here)
+![Tomato price trend](<img width="1512" height="805" alt="image" src="https://github.com/user-attachments/assets/986652e2-5a04-4524-89ed-5f283195709c" />
+)
 
 ## Tables Created
 
