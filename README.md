@@ -46,7 +46,7 @@ Market price data is often messy: some records have negative quantities, or pric
 - Prices were very unstable, with sharp spikes and drops. The highest price was about **5 times** the lowest.
 - Spikes appeared in mid-2024 and late 2025, but they did not fall in the same month each year.
 
-(<img width="1512" height="805" alt="image" src="https://github.com/user-attachments/assets/986652e2-5a04-4524-89ed-5f283195709c" />)
+<img width="1512" height="805" alt="image" src="https://github.com/user-attachments/assets/986652e2-5a04-4524-89ed-5f283195709c" />
 
 ## Tables Created
 
