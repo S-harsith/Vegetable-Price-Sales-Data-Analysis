@@ -16,12 +16,9 @@ Databricks, PySpark and SQL.
 - Prices were very unstable, with sharp spikes and drops
   (about 5 times difference between the highest and lowest)
 
-## Workflow (notebooks)
-1. 01_data_collection - load the raw data
-2. 02_data_cleaning - remove duplicates and fix errors
-3. 03_data_transformation - prepare structured tables
-4. 04_analysis - monthly and vegetable-wise trends
-5. 05_dashboard - charts and visualizations
+## Notebook
+vegetable_price_analysis.ipynb - cleans the raw data, removes duplicates,
+and plots price trends (for example, tomato).
 
 ## Tools
 Databricks, PySpark, SQL, Python
